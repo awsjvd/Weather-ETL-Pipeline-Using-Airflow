@@ -16,5 +16,3 @@ This project is an ETL (Extract, Transform, Load) pipeline that retrieves weathe
 ## Running the Pipeline
 To run this pipeline, make sure you have Apache Airflow and the required Python libraries installed. The pipeline runs daily, but you can manually trigger it through the Airflow UI or the CLI.
 
-## License
-This project is licensed under the MIT License.
